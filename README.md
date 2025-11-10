@@ -1,1 +1,1 @@
-# Sistema-IoT-con-ESP32-para-Monitoreo-Control-Inteligente-y-Predicción-de-Agua-Potable
+# Sistema IoT con ESP32 para Monitoreo Control Inteligente y Predicción de Agua Potable
